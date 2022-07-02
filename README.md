@@ -2,8 +2,10 @@
 
 This is my 100 days of python challenge. I will write a python project each day for 100 days.
 
-## DAY1
+## Day 1
 
-Summary: 
+Project: Band Name Generator
+
+Concepts: print function, \n to start new line, length function, variables
 
 More info [here](Day1/README.md)
