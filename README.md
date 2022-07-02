@@ -14,6 +14,6 @@ More info [here](Day1/README.md)
 
 Project:
 
-Concepts:
+Concepts: Data Types, Numbers Operations, Type Conversion, f-Strings
 
 More info [here](Day2/README.md)
