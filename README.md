@@ -12,7 +12,7 @@ More info [here](Day1/README.md)
 
 ## Day 2
 
-Project:
+Project: Tip Calculator
 
 Concepts: Data Types, Numbers Operations, Type Conversion, f-Strings
 
