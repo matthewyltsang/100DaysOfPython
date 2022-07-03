@@ -20,7 +20,7 @@ More info [here](Day2/README.md)
 
 ## Day 3
 
-Project: Treasure Island
+Project: Treasure Island Adventure Game
 
 Concepts: Conditional Statements, Logical Operators, Code Blocks and Scope
 
