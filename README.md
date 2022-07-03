@@ -17,3 +17,11 @@ Project: Tip Calculator
 Concepts: Data Types, Numbers Operations, Type Conversion, f-Strings
 
 More info [here](Day2/README.md)
+
+## Day 3
+
+Project: Treasure Island
+
+Concepts: Conditional Statements, Logical Operators, Code Blocks and Scope
+
+More info [here](Day3/README.md)
